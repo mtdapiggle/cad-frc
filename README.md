@@ -70,3 +70,44 @@ they make their shooter adjust angles by using a moving gear and a stationary ge
 and their shooting is one sided?
 i don't understand why
 it's probably some mathematical concept that i don't know of (aka all of them)
+
+# session 2:
+i'm kinda hungry
+(it's 6 am and i didn't eat much last night)
+![image](https://github.com/user-attachments/assets/88c71c92-3f4b-4b00-9e77-d854fd863178)
+ok, so this is their intake.
+![image](https://github.com/user-attachments/assets/8b8c3751-acc8-4cc9-bc7a-2738884a51fe)
+and it moves back to  here-ish.
+![image](https://github.com/user-attachments/assets/f19032e5-8bc4-4c89-9516-4ed85d8622a4)
+they use  a stationary gear and a smaller gear to move it.
+they seem to not have gone for a climber, but they have an adjustable angle shooter.
+![image](https://github.com/user-attachments/assets/77383ef4-296c-472b-b2ff-0262a2e0734b)
+ok, so i'm not sure if it actually is adjustable. i see nothing that can make it move, even though i can move it in the assembly which usually means that they want it to move in real life.
+after looking around for like 5 minuutes straight, i can't find anything that makes it move.
+![image](https://github.com/user-attachments/assets/73870fd0-fe89-4d5f-981c-1db138c53924)
+6328 has an under the bmper intake, and has modified their bumper to let the note fit through.
+![image](https://github.com/user-attachments/assets/b903de6b-8bae-4c6a-a86c-1698a7e0c018)
+i can see an adjustable angle shooter, and a mechanism to do the amp (i forgot amp exists)
+uh yea that's about it.
+ok, so selection times
+i think i might want to try and go with an adjustable angle shooter and some way to do amp, although i've seen teams with adjustable angle shooters just roll up to the amp, adjust the angle of their shooter to be nearly parallel with the amp slot and use a little bit of power to get the note in. 
+https://youtu.be/AaAfX_DwbJ0?t=22
+here's a video to explain it.
+![image](https://github.com/user-attachments/assets/8b4a1c5f-9f93-402a-95ff-d13c54e3709b)
+i was reading through frc design, and i found this.
+well ok. i mean that's fair.
+i think i'll also do an intake that moves in and out of the robot
+and maybe a climber if i can fit it in.
+i would also like to sort of make a checklist of things that i need to do (make plates etc) to help me remember what i need, since i forgot to make a bunch of things in theh previous frc cad, and that lead to me having to go back and redo a bunch of things, and make shafts and stuff, etc.
+also, i just realised, that david (the guy who made frcdesign) only took like 6 hours to make a full robot, but took me like 60-70 hours. damn. skill difference is crazy.
+ok, so the bad thing is, i don't necessarily know every single minute thing that i need to put into the checklist.
+so uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+hmmmmmmmmmmm.
+might as well not make a checklist
+or
+idk
+eh i won't
+![image](https://github.com/user-attachments/assets/4ef4064a-ef4b-4e88-a3c6-74456f760bc9)
+i started off with this drivebase.
+i'm going to read through frc design best practices real quick, and then start doing stuff
+i'll refer back to it to check on some things and best practices
