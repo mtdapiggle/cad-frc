@@ -111,3 +111,44 @@ eh i won't
 i started off with this drivebase.
 i'm going to read through frc design best practices real quick, and then start doing stuff
 i'll refer back to it to check on some things and best practices
+
+# session 3:
+hmmmmmmmmmmmmmmm
+ok so i probably should've made the checklist, so i know where to start, but uh...
+hmmm
+honestly
+idk
+![image](https://github.com/user-attachments/assets/d91778b9-833e-4fb5-994c-4091e144f71a)
+i named 2 folders for now. 
+i'm just kinda stuck on where to go right now.
+i guess i might make a note intake ?
+idk dude.
+ok well apparently you're meant to put them in separate documents, but that doesn't matter. 
+oh and i thought that you're meant to make a master sketch for each subsystem, but you're meant to make one for the entire robot. 
+also i don't need the context of the drivebase for mastersketches, so that's cool i guess. 
+![image](https://github.com/user-attachments/assets/72f3fd22-3e32-4f38-ba9b-ac3eefc05176)
+i started out by sketching the drivebase. 
+hmmmmm.
+i decided to grab the dimensions of a note. 
+they're 2 inches thick.
+![image](https://github.com/user-attachments/assets/04ce7190-aa6f-45ef-93b2-acb9d2e135ba)
+1678 uses something on the side to i think guide the note in. also, it seems like you are able to intake the note pretty steeply, so that's interesting.
+i could also either use a roller, or wheels
+i think i'll use rollers, since they can cover a larger area.
+![image](https://github.com/user-attachments/assets/340e79a2-c4d5-4dcc-b3a1-a4a9afe9fcd7)
+i'm  having trouble manuvering the "note" between the rollers, and it keeps on being horizontal. i used transform and selected one line to try and move them all, but i had to select all of the lines.
+![image](https://github.com/user-attachments/assets/bb8c4fd4-eabe-4eb4-aef9-214ffc15a441)
+this... might work?
+![image](https://github.com/user-attachments/assets/5416d951-3ea8-4eda-908f-82bc7651bdd8)
+i decided to use a 2 inch by 2 inch cube to sort of map out where it can go, because moving the rectangles can feel clunky and takes a long time, although i cna just have a lot of rectangles, which could be effective.
+i think ima use a bunch of rectangles, i feel like the master sketch isn't meant to look like this, but now it will. 
+actually, i think i want to check up on frc design to look at mastersketching again, since the main goal is to learn more abuot frc cadding, and how to be better.
+![image](https://github.com/user-attachments/assets/77435092-46d4-4041-9fb8-cfd9ae8492b9)
+hmmmm ok
+![image](https://github.com/user-attachments/assets/804e1e84-a700-46c8-9d75-55016a678d41)
+wait a minute... i was right. 
+hmmmm ok. 
+i'd been doing the master sketch not in any folder, so i guess i'll move this into the intake folder, and build off of there. 
+now, i need to show the extension limits, now i'm not sure if it means how far something extends in the robot (e.g. intake or adjustable angle shooter) or if it means frame perimeter. 
+![image](https://github.com/user-attachments/assets/778ee09f-9fee-4a93-94a2-69f155792d9c)
+ok, so this is an image from frc design, and i can sort of see a rectangle around the robot which tells me that it's probably frame perimeter. 
