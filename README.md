@@ -194,5 +194,10 @@ oooooooo a flywheel calculator, i likely won't need that though, since unlike ot
 now this is what i need.
 ![image](https://github.com/user-attachments/assets/a8e06b0d-42ff-4a02-92c9-39a5f0ad03eb)
 uh what's this. 
-ok, so i found out that increasing the size of the chain increases the pitch.
-so #25 is 
+ok, so i found out that increasing the size of the chain increases the pitch and the size, but not always.
+![image](https://github.com/user-attachments/assets/2be0b4f4-d6b2-4319-b4f6-227331dfaf51)
+uhhhhh which one is it. 
+ok so it's single strandd, which makes sense
+![image](https://github.com/user-attachments/assets/c7fa4dd8-a593-4484-8a87-79ae3e7ad698)
+the ddifference between #40 and #41 is crazy.
+
