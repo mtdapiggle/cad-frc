@@ -152,3 +152,47 @@ i'd been doing the master sketch not in any folder, so i guess i'll move this in
 now, i need to show the extension limits, now i'm not sure if it means how far something extends in the robot (e.g. intake or adjustable angle shooter) or if it means frame perimeter. 
 ![image](https://github.com/user-attachments/assets/778ee09f-9fee-4a93-94a2-69f155792d9c)
 ok, so this is an image from frc design, and i can sort of see a rectangle around the robot which tells me that it's probably frame perimeter. 
+
+# session 4: 
+welp i guess i gotta look up the game manual. 
+![image](https://github.com/user-attachments/assets/578d160a-e90b-4689-8292-5b64cdcff00c)
+hmmmmmmmm ok.
+![image](https://github.com/user-attachments/assets/2292af84-5390-46cc-8a02-2e01a4e54429)
+considering the general size of a swerve drivebase is around 650 mm, this is quite big. 
+though i guess that's the reason why the unqualified quokka's robot can extend out that far
+(btw this is the unqualified quokka's robot):
+https://www.youtube.com/watch?v=FURTxVVXUfM
+a robot in 3 days is basically like a thing where people gather together to build a robot within 3 days of the kickoff, usually attempting to be able to do all of the different things in the game (i think) it's usually not a full frc team that does it. there's also other robot in 3 days groups, like cranberry alarm. i'm pretty sure unqualified quokkas is the first australian ri3d group/team. 
+they combined an intake, an amper and a shooter all into one arm, which kinda astonishes me, since i would've personally went for like a different subsystem for every single one. 
+![image](https://github.com/user-attachments/assets/58380890-79ca-4e80-8da5-1b4908c4abb0)
+hmmmmmm, i might have a problem with the note hitting the bumper, but it should be fine right. right???
+![image](https://github.com/user-attachments/assets/5e920a10-b0c7-4088-89d8-8f50c41d2258)
+i think this could work. 
+![image](https://github.com/user-attachments/assets/6743e824-d5c1-4ae8-bcd8-3992e68aec3b)
+i feel like this is a bit short/small for some reason.
+oh ok nvm i think i know the reason, it's because you usually add the radius of the pool noodle. 
+![image](https://github.com/user-attachments/assets/e42e20aa-5763-4234-ae1c-ad940e723e4a)
+yep that looks more like it. 
+![image](https://github.com/user-attachments/assets/a099c656-7ab0-4d3a-a09f-08fbeabe52ed)
+i could make a roller to the top right of the lowest roller.
+![image](https://github.com/user-attachments/assets/7bef6d02-9ef2-47d7-b6b8-f1510f66ffc2)
+1678 uses 2 rollers, with both of them being smaller. i might do that. 
+![image](https://github.com/user-attachments/assets/0194572d-a1e1-43ad-879d-c74842a88871)
+i think this mighttttt be good? idk.
+ok, time for other intake stuff.
+like
+like
+pivoting.
+i've seen a couple things that pivot, and they all use sprockets and chain/nearly all the time/most of the time/yeah.
+e.g. the unqualified quokkas entire shooting, intaking and amping is on a pivoting arm. 
+so i think that when you need a more accurate pivot/spin, you'd want a higher gear ratio, so you can control it more precisely. 
+![image](https://github.com/user-attachments/assets/c5db12a4-6f0e-4a60-9140-86737987cfe6)
+i found this intake calculator on recalc, but i dodn't think i'll need it. 
+![image](https://github.com/user-attachments/assets/4fb80bdd-bdeb-4119-a813-e3a22a50ea19)
+oooooooo a flywheel calculator, i likely won't need that though, since unlike other games, you can only store one game piece at a time.
+![image](https://github.com/user-attachments/assets/2e613b71-1214-459c-9eb4-c78ccbbe30b7)
+now this is what i need.
+![image](https://github.com/user-attachments/assets/a8e06b0d-42ff-4a02-92c9-39a5f0ad03eb)
+uh what's this. 
+ok, so i found out that increasing the size of the chain increases the pitch.
+so #25 is 
