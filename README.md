@@ -201,3 +201,34 @@ ok so it's single strandd, which makes sense
 ![image](https://github.com/user-attachments/assets/c7fa4dd8-a593-4484-8a87-79ae3e7ad698)
 the ddifference between #40 and #41 is crazy.
 
+# session 5:
+![image](https://github.com/user-attachments/assets/41bc44e9-96a4-4fe8-9eed-a491fc6867af)
+i think i'll use #35, since it's strong and has a good tensile strength, there also is no #40 cots (commercial off the shelf) sprockets, so that's cool. 
+ok, so i'm going to figure out a gear ratio.
+i think that something around 10:1 would be good, or maybe even higher, something like 20:1 at maximum. 
+now i could use versaplanetary gearboxes to do this, but the motors that are compatible with the versaplanetary gearboxes aren't extraordinarily strong, and we have to move an intake/shooter, so i don't think i should use versaplanetary gearboxes. 
+hmmmmmmmmmm
+i think i should use gears and sprockets, i think they might be safer. 
+![image](https://github.com/user-attachments/assets/5d7a5688-8ea5-4343-8079-5070f5dc20af)
+1678 uses a double gear setup, which i assume is to make sure that nothing slips and things don't go badly, which is fair, or it could be to lower the stress on the gears, since there would've been more stress on one gear, when it could've been displaced over 2 gears.
+now that i think of it, this could've been the stuff that i planned out. anyways. 
+i decided to look at frc design again, just to check how i should setup the part studios. 
+![image](https://github.com/user-attachments/assets/821038a5-e055-4478-a031-7f194873b816)
+ok wait, i just realised that i misunderstood this, i thought it meant one master sketch per subsystem, but each master sketch are in different part studios, but now i realised that they mean that a different sketch just meaning a different sketch in a singular part studio.
+ahhhhhhh well, time to pull the mastersketch back out. 
+argh ok. 
+![image](https://github.com/user-attachments/assets/d57f9e65-95e1-4050-bf2d-ad4d9f1d485b)
+i started to make the other master sketches. 
+![image](https://github.com/user-attachments/assets/56a6f0af-c416-447e-9024-1d0b15175126)
+things just feel larger in the part studio. 
+![image](https://github.com/user-attachments/assets/e0646296-35d4-4d50-9959-2bec3cbac886)
+![image](https://github.com/user-attachments/assets/b8a94944-8bb6-44a5-b622-387aba895a4e)
+things... just aren't adding up.
+![image](https://github.com/user-attachments/assets/ef4f04f2-1752-482c-9f8b-ccde4af98f71)
+uh huh...
+![image](https://github.com/user-attachments/assets/94e5bc54-4d69-47f1-a7ad-e07ca8d70cf3)
+i love it when onshape omits the 0.4 mm when calculating inches and singlehandedley stuffs everything up. 
+or maybe it doesn't
+idk.
+ok wait nevermind i'm such a dumbass, i am so dumb (i thought my measurement was 205 cm, and read the actual one normally, as 211 cm, which is why i thought something is wrong.)
+but the wacky speaker opening problem is still a thing.
