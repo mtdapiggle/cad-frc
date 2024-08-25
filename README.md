@@ -301,3 +301,51 @@ i think i've figured it out? i don't know dude.
 comparing my master sketch to the one on frc design, there's a lot mroe on the frc design master skettch. idk what i'm doing wrong.
 ![image](https://github.com/user-attachments/assets/7654bc58-58a6-4833-881b-44d2becf5443)
 i think i might have to sketch out where the possible locations of things are meant to go. 
+
+# session 8:
+![image](https://github.com/user-attachments/assets/b529115c-2969-491a-afec-50561bebaa85)
+i'm not sure how i'm meant to know where it's meant to stow, (i can give a rough area, but it's not going to be like extremely accurate/down to the mm) so i think i might use a circular pattern so that it can be accurate. 
+![image](https://github.com/user-attachments/assets/72f0acd6-0e81-4eda-81b7-8cd5828856c8)
+yeah i think this could work.
+now i need to make the positions of the shooter.
+![image](https://github.com/user-attachments/assets/bb2aa52d-f156-421e-81b2-089c7b3723dc)
+hmmmmmmm
+ok, i think i should start trying to make stuff now.
+uh so yea.
+![image](https://github.com/user-attachments/assets/fae15c85-a0ee-48cd-85f5-293fd92eb1c2)
+hmmmmmm...
+uhm
+my bad. 
+![image](https://github.com/user-attachments/assets/9feeb672-bf76-4c0b-baad-6d46ba6480c7)
+it has been derived. 
+i think i might want to structure my stuff better. 
+![image](https://github.com/user-attachments/assets/4615bd3c-450a-4fad-b49a-768d060475bf)
+progress is good, but i gotta figure out the shape of the plate that i want, and where i want the intake to pivot from. 
+the intake also hits the bumpers, which isn't good. 
+![image](https://github.com/user-attachments/assets/595c1154-e856-4646-8054-c0f2e4f40361)
+ayeeeee progress !
+![image](https://github.com/user-attachments/assets/a6bde715-3eee-4253-80c7-7af75b6d09f6)
+as i start to create the intake arm, i realised something very bad. the circular pattern is too close to the bumper
+asdjflkasdjfa;ksfda;sfd;kdsjfkladsf
+![image](https://github.com/user-attachments/assets/13157357-35fb-4b4a-a439-f9469fcb1ccd)
+surely this is enough. surely. 
+ok, so right now i'm thinking of putting a sprocket on the inside of the drivebase, and then like 1678, mount the intake on the outside (between the drivebase and the bumper), i think that they mounted the intake on the outside because if they didn't, it'd hit the swerve modules, and that's not good. 
+![image](https://github.com/user-attachments/assets/982358da-a07d-4ee3-adae-4d52797d39e7)
+sooooo i looked at 1678's intake, and uhhhhh. they have it right up against the  bumper. i meannnn i coudld do that, but uhhhhhhhhhh.
+hmmmmmmmmmmmmmmmmmmmmmmm
+honestly i don't care, they can do what they do and they know what to do, whereas i don't know what i do what i'm meant to do and i'm doing what i'm doing.
+i don't know what i just wrote, but
+yeah anyways.
+![image](https://github.com/user-attachments/assets/8246f2dc-8fc1-40a1-9579-ef4ea3d5cfee)
+W tangent constraint moment. 
+![image](https://github.com/user-attachments/assets/59427115-a87d-44eb-9322-915d1fd79d72)
+dude...
+what.
+![image](https://github.com/user-attachments/assets/2622ffa1-beae-40f5-9c2c-35db93b927af)
+why this no worky :(
+![image](https://github.com/user-attachments/assets/e1cf453f-661a-4519-9cbe-432f416288ab)
+WHAT MYSTICAL CONSTRANITS ARE HOLDING THIS
+![image](https://github.com/user-attachments/assets/5cee3c5f-e795-4ce5-9878-df0fd361a010)
+THESE ARE ALL THE CONSTRAINTS
+![image](https://github.com/user-attachments/assets/c8dea7ba-1308-44e2-aef2-8114885bbb41)
+if i move the right point, this happens...
