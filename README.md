@@ -263,3 +263,41 @@ the roller army approaches.
 ![image](https://github.com/user-attachments/assets/ae6d7d44-b91f-4d63-9426-d55de9982102)
 ok, so i can make the rollers go downwards, and then have the entire robot be generally lower, which i think could be good, or i could have it higher.
 hmmmmm i think i'll have it lower. 
+
+# session 7:
+![image](https://github.com/user-attachments/assets/2a804c1f-7c64-481e-8101-64791a7cd92f)
+me think.
+actually, i'm not sure if i should make it go downwards, necause if it does, it'd have to go at a steep angle into the shooter, which i don't think is good.
+i was looking at 1678's cad for guidance, and wondered why they had a couple of rollers up really high, i thought that it could be for amp since that's like the only target up high, so i did some digging.
+https://youtu.be/_EfZcbMWMVY?t=65
+i looked at their gameplay footage and saw that it is indeed for amp. 
+quite interesting amp mechanism. 
+hmmmmmmmmmmmm ok so
+i think i might just keep it flat. 
+actually, i probably should sketch out my shooter before trying to make the indexer/serialiser, so i know where everything is before making it. 
+![image](https://github.com/user-attachments/assets/0deef2e0-7c04-4b77-82f0-5a2325c715e0)
+i'm starting to see why master sketches can be good. 
+![image](https://github.com/user-attachments/assets/b1fd48d0-34da-4a26-9e28-9bea3c09ccca)
+i feel like the shooter should be around? the middle of the drivebase. 
+![image](https://github.com/user-attachments/assets/00d80188-3f67-41df-939f-4be81b88a0f9)
+so around 60 degrees at maximum, and around 0 ish degrees 
+i might have to place the shooter a bit higher so i can get it at 0 degrees.
+![image](https://github.com/user-attachments/assets/fbf0b8e1-6885-407e-a92f-b1df1db11b80)
+this might be where i place the pivot for the shooter. 
+![image](https://github.com/user-attachments/assets/83687bef-b01f-4ce3-a1ee-cef94c740f78)
+i think that i'll use 2 pairs of wheels to shoot the note, now i'm not sure why 1678 put their wheels on one side, i think i'll look at other examples to see why/find out. 
+i looked at 6328 and they have 2 pairs of wheels on both sides, so i might also do that. 
+hmmmmmmmmmmmmmmmm ok.
+i think i might use 3 inch or 4 inch wheels, i don't think it matters too much in this game, considering that you only shoot one game piece at a time, so..
+hmmmmmmmmmmm
+me think. 
+![image](https://github.com/user-attachments/assets/2b6b8f7b-ed47-4580-b1ae-27788f589dd7)
+i think this might be good. it's only a master sketch anyways.
+![image](https://github.com/user-attachments/assets/39c0e9c9-8059-4440-bf92-de1029f031c1)
+i kinda realised that i probbbably should make the shooter higher up. 
+me thinking. 
+![image](https://github.com/user-attachments/assets/46ef9503-6772-487a-aa70-a83e608b7454)
+i think i've figured it out? i don't know dude. 
+comparing my master sketch to the one on frc design, there's a lot mroe on the frc design master skettch. idk what i'm doing wrong.
+![image](https://github.com/user-attachments/assets/7654bc58-58a6-4833-881b-44d2becf5443)
+i think i might have to sketch out where the possible locations of things are meant to go. 
