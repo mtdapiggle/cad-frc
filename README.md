@@ -232,3 +232,34 @@ or maybe it doesn't
 idk.
 ok wait nevermind i'm such a dumbass, i am so dumb (i thought my measurement was 205 cm, and read the actual one normally, as 211 cm, which is why i thought something is wrong.)
 but the wacky speaker opening problem is still a thing.
+
+# session 6:
+![image](https://github.com/user-attachments/assets/7d1acd6a-dcd4-4793-bcfb-51ebe9bb639c)
+this all makes no sense...
+why...
+honestly i think i'll just move on, it's not worth wasting time on this.
+![image](https://github.com/user-attachments/assets/7825b9e1-9026-46ea-89fb-7dd88af167c2)
+i have no idea what a serialiser is, so uhhhhh. 
+hmmmmmmmmmmmmmmmm.
+i searched up for serialisers and it didn't come up with anything useful for the most part, but i think i got the general idea of what a serialiser is, i think that it's a subsystem/thingy that usually is between the intake and the shooty thing, that basically takes the game piece from the intake to the shooter? idk.
+i think that kinda makes sense to me now. 
+hummmmm...
+ok, so i have to get the note from the intake to a possible shooter position, now i wonder if i want to go beneath the stage.
+i think it would be nice.
+hmmmmmmm i also have to sketch out the possible positions of the intake/shooter
+surely it's fine !
+o wait i forgot to do the amp in the master sketch
+that's not good. 
+![image](https://github.com/user-attachments/assets/d42632da-91cd-498b-a08b-c96eb80afd69)
+hmmmmm quite interesting.
+![image](https://github.com/user-attachments/assets/f1b82c46-22c6-47ae-afaf-c9beb36c30e1)
+i think i might actually put the extension limit and the notes into a separate sketch.
+![image](https://github.com/user-attachments/assets/5b14b02f-d112-4cad-940d-0f0a513a25eb)
+it has been moved.
+ok, so a small problem, i just realised that by putting the notes in a sketch before the intake, i can't see where i should put intake stuff, which isn't good. 
+hhhhhhhhhhhhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+![image](https://github.com/user-attachments/assets/f4fcb408-3d03-4910-9ce3-c555f1cf8449)
+the roller army approaches.
+![image](https://github.com/user-attachments/assets/ae6d7d44-b91f-4d63-9426-d55de9982102)
+ok, so i can make the rollers go downwards, and then have the entire robot be generally lower, which i think could be good, or i could have it higher.
+hmmmmm i think i'll have it lower. 
