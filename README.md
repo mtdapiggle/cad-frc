@@ -392,3 +392,51 @@ this might work.
 i realised that the divebase tubes that i'm currently using don't have holes on the side, so that's fun. i'm going to have to redo it later.
 ![image](https://github.com/user-attachments/assets/ef63da24-142a-49a6-b8df-953e2be0d96e)
 nearly 180 degrees.
+
+# session 10:
+![image](https://github.com/user-attachments/assets/7bac0c3d-3ab0-468f-b75e-69324b7f34ce)
+i think that 1678 used a bolt here to hold the shaft, so that they can have the intake rotate around it, i think i'll take this idea and use it. 
+i think they also have bearing holes so that the intake plate can rotate. 
+![image](https://github.com/user-attachments/assets/4eb906dd-b640-4299-b34c-dafbb2b7d16f)
+i should've merged the intake bearings and the intake plate sketch together. huhujaf;skldasfd
+turns out that i've been using master sketches wrong... asjfkl;asjdf;asdf
+these master sketches confuse me. 
+appaently i needed to also include the starting maximum configuration limit. (kinda like the extension limit box, but you robot has to be able to fit in it when all of the things that can extend aren't extended), but surely it's fine. 
+![image](https://github.com/user-attachments/assets/233da989-01a4-48fa-8a56-edef2f9f6609)
+i feel like there's something missing here, but i'm not sure what it is.
+i guess i'll move onto assembling it, and then seeing what's wrong. 
+ah ok nevermind, i think i need to make it more parametric, so i can insert it into the assembly as a rigid, but also there's just another thing that's missing, that i don't really know what it is. 
+ok wait i think i'm missing the rollers, the shafts, and the thing that allows the rollers to connect to the shaft. i think i might design them myself. 
+![image](https://github.com/user-attachments/assets/465d4d8c-76f0-4040-8dc7-615dd473f348)
+hmmmmmm ok.
+![image](https://github.com/user-attachments/assets/a7d48d65-6cf0-4adf-a454-f3afb87dffde)
+i mighttt make the rollers a bit thicker. 
+![image](https://github.com/user-attachments/assets/35916d47-4d17-408f-8268-1ab1555102cd)
+now i gotta add a hole. 
+![image](https://github.com/user-attachments/assets/ea97e602-6916-4c83-b2d1-7c50aeb7d2f7)
+wait a minute...
+it makes sense now, they somehow joined the pulley to the plug/adapter that goes into the shaft, and they also aren't using a hex shaft, but using a circular shaft. hmmmmmmmmmmmm.
+this... is quite the setback. 
+i mean it's 100% possible for me to do this, but...
+like, i could just fasten a pulley and call it a day, OR, i could just do some funny ideas that i can think of.
+i think i'll take the funny ideas. 
+problem is, i don't have any right now.
+(200000 years later)
+ok, so i think i'll keep things as they are, but i think i'll just use a normal pulley setup to transfer power and stuff. 
+![image](https://github.com/user-attachments/assets/26d689a6-55cb-4f52-90ee-887758400b6c)
+![image](https://github.com/user-attachments/assets/b5e610c6-3113-4d06-aca8-8c010df83663)
+tis was an easy fix though. 
+![image](https://github.com/user-attachments/assets/90ff6fab-6459-4b81-8df8-12db524bb1eb)
+i realised that i need a shaft here, and a space between the blue plate and the grey plate for the flange of the bearing. 
+![image](https://github.com/user-attachments/assets/f47428bb-bd11-4fa7-b975-43f3ddc6843e)
+i reversed the direction of the extrude and made it thicker, but some problems arose. 
+i fixed it quickly, and made the adjustments.
+i also realised that i needed fillets on a bunch of edges. 
+agh i just realised i need belts for the pulleys.
+i'm very smart.
+also, i just realised that i haven't even figured out any gear ratios for intaking...
+i'm extremely smart. 
+i think i'll go with a 10:1 or something. 
+now, the next thing i gotta work out is the placement of the motor... i could mount it directly onto the arm, and i don't really have space on the drivebaes to mount it, so i guess that's the placement of the motor locked in. also, i think i might need to expand the size of the arm, to accomodate for the motor. 
+![image](https://github.com/user-attachments/assets/deb3f209-9902-4611-874b-111093d70d83)
+i also gotta make these things to deflect the notes inwards. 
