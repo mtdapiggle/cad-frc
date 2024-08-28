@@ -349,3 +349,46 @@ WHAT MYSTICAL CONSTRANITS ARE HOLDING THIS
 THESE ARE ALL THE CONSTRAINTS
 ![image](https://github.com/user-attachments/assets/c8dea7ba-1308-44e2-aef2-8114885bbb41)
 if i move the right point, this happens...
+
+# session 9:
+bit of a gap between writing the commits n stuff, i apologise for it. (in hindsight i probably should've just exported the .stl file after i finished and then talked about stuff i did later, now i'm forced to sift through version history to find the exact time)
+okie dokie writing time.
+![image](https://github.com/user-attachments/assets/a83b8ab9-68e5-44a6-8a74-954eca1c9318)
+i fixed this problem by using a normal circle instead of using a 3 point arc and then trying to make it tangent. i also had to put things into place and make sure things don't go wrong. 
+now, i needed to somehow figure out a way to mount stuff like the sprocket, i checked the WCP store, and realised that the sprockets have holes in them so that you can mount them to plates with bolts, now i just needed a way to mount the intake to something. 
+ok, so after a bit of thinking, i had decided on mounting the sprocket onto the inside of the drivebase, and then use bearing blocks to hold bearings, and then mount the plate outside of the drivebase, and spacing the bumper out somehow (ya)
+i also needed to decide on gear ratios. i eventually decided on a 20:1 gear ratio, since i think it's better to be precise and have enough torque to lift the intake up and down. 
+i think i will go with a 12 tooth pinion to a 60 tooth gear, and then a 15 tooth sprocket into a 60 tooth sprocket, making it 20:1. 
+![image](https://github.com/user-attachments/assets/d475609f-491a-453a-9bc9-0a82f875d41b)
+and then i realised that the currnet setup can't really facilitate using a 60 tooth sprocket, as it will likely hit the swerve modules (aka bad)
+hmmmmmmm
+i think i'm foced to downgade here, and i don't think i'm really able to up the gear count, sooooo.
+![image](https://github.com/user-attachments/assets/7d9f81af-d153-448b-9f53-488b4181dae2)
+oh... oh no...
+i think i might have to do something like 1678, and i can now understand why they mounted it the way that they did.
+![image](https://github.com/user-attachments/assets/e515c292-4d16-4d2e-862c-8c5c97b0d5d6)
+cool ok. 
+![image](https://github.com/user-attachments/assets/6b50e56f-b934-4021-b1e5-1cc10ee7bbb2)
+hmmm that's a bit close.
+![image](https://github.com/user-attachments/assets/7506ded4-dcb0-402e-8d13-738d79ff82cc)
+awwwww no dude...
+![image](https://github.com/user-attachments/assets/4fbc0aff-4bd2-4e8d-b5fd-984e602d96c2)
+uh what.
+![image](https://github.com/user-attachments/assets/897623b5-89d5-4e49-8ae7-87efb2ccbca3)
+mmmm nvm i don't think i need 12 holes.
+![image](https://github.com/user-attachments/assets/94e9413a-9831-4614-9b88-efbbd2588e84)
+hmmmmmmm, 1678's intake mounting is quite interesting, they have 2 plates, and one connects to the intake? why couldn't they just have one plate?
+there's obviously a reason behind it, but i'm not sure why...
+my small cad brain doesn't understand. 
+it's probably a problem that i would have to face in the future (aka me right now, writing this), so i think i should solve it and understand it now, before moving on, and it'd help me to understand more design problems and how to solve em, so i guess i should try and solve it. 
+okay, so...
+![image](https://github.com/user-attachments/assets/cd0373d7-39ea-425d-ba5b-a2b887535bb1)
+from what i could see, that's a bearing hole that holds the shaft and a bearing, which allows the plate to spinnn.
+so i think i figured out why they needed it, they needed it because they wanted to min max the space that they can pick up the game piece from (i think, i see no other reason)
+well ok. 
+i don't really need to minmax my space, so uh yea. 
+![image](https://github.com/user-attachments/assets/28052028-8102-43e9-bb70-63476d568ec6)
+this might work.
+i realised that the divebase tubes that i'm currently using don't have holes on the side, so that's fun. i'm going to have to redo it later.
+![image](https://github.com/user-attachments/assets/ef63da24-142a-49a6-b8df-953e2be0d96e)
+nearly 180 degrees.
