@@ -440,3 +440,49 @@ i think i'll go with a 10:1 or something.
 now, the next thing i gotta work out is the placement of the motor... i could mount it directly onto the arm, and i don't really have space on the drivebaes to mount it, so i guess that's the placement of the motor locked in. also, i think i might need to expand the size of the arm, to accomodate for the motor. 
 ![image](https://github.com/user-attachments/assets/deb3f209-9902-4611-874b-111093d70d83)
 i also gotta make these things to deflect the notes inwards. 
+
+# session 11:
+well, lots of things to do. 
+hmmmm i think i'll start with the gears that i'll  be using and mounting options and stuff like that. 
+https://wcproducts.com/collections/belts-chain-gears/products/aluminum-hex-bore-gears
+i looked through WCP's gears, and decided on a 12 tooth motor pinion into a 48 tooth gear which also turns a 20 tooth gear that goes to a 44 or 46 tooth gear, whcih is around 10:1.
+![image](https://github.com/user-attachments/assets/d0c5a135-999b-419f-aeef-9d7841b707f9)
+well i guess i don't need to make the arm larger. 
+i think a 10:1 might be overkill, but idk. 
+![image](https://github.com/user-attachments/assets/4287aae3-f241-4acd-9d65-789bce2fa2a2)
+interestingly, 1678 has quite a low gear ratio, and also changes the ratio depending on the rollers. 
+i think i'll lower my ratio to 5:1, but the ratio changing depending on the rollers is probably something i won't do, i assume it's to intake it more efficiently. 
+i think i want to use a 12 tooth to a 36 tooth, then a 20 tooth to a 34 tooth. although, i could also use pulleys to skip the 20 tooth to 34 tooth part. i could use a 24 tooth pulley to a 36 tooth...
+hmmm i think i'll do that. 
+i may also swap to a 40 tooth gear. 
+![image](https://github.com/user-attachments/assets/27e049f0-df2e-4f17-af96-2e22430e3e5b)
+wait, it wasn't coincident to the circle? (always has been)
+![image](https://github.com/user-attachments/assets/336b96d0-f625-4603-bb62-7d171bc44fce)
+ayeeeee ok. (i don't know what i was doing before tbh)
+![image](https://github.com/user-attachments/assets/49e53492-2891-4d15-b490-0b3e54961031)
+i realised that i needed some standoffs on the other side, or it'd be unbalanced and things would be wacky, i tried making the circle larger, but it didn't work. 
+![image](https://github.com/user-attachments/assets/a7c26f8a-4694-466c-8e94-55a92b62cf3f)
+i adjusted it to this so it should work (it did)
+i quickly created some new standoffs and then started to assemble everything again. 
+oh wait nvm i realised that i need some other parts, specifically the one that deflects things. i think the thingy that deflects the notes in is 3d printed (how else would it be made i guess)
+![image](https://github.com/user-attachments/assets/84f3a0de-95ba-4c6a-8e26-da1b45825401)
+i think it should go between these belts. 
+now i kinda need to see how big the deflecters need to be. 
+it's 632 mm from one side of the intake to the other side. now i need to check the diameter of the note, from memory i think it's 14 inches, but i'm not sure. 
+![image](https://github.com/user-attachments/assets/1ffcb32b-0e9c-4424-8aa7-84ed04573b69)
+i was right 😎
+ok, so 14 inches is around 36 centimetres, and that leaves aound 260 millimetres left over. this kinda means taht i'd eithe have to make the deflecty bit 13 cm on each side, (which is quite big) or i could make the indexing area larger and make it slowly go towards the middle. i could also use mecanums in some areas to help center it. i'm not sure what i want to do, obviously making the defleccty bit larger is the easist way to do it
+hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.
+i don't really know how to make the indexing area center things, so uh yeah. 
+actually i looked at 1678's cad, and i realised that they don't even have any centering things on their indexer, and then i realised that i'm incredibly stupid, and that you don't actually need to fully center it, well i mean you could...
+ok nevermind, i'm actually really dumb, because i checked the distance between their shooter plates, and realised that it's exactly 14 inches. 
+huhuhajsfkldja;sdfja;skldfj;asd
+i measured their indexer plate gap and it's like 15.25 inches. 
+hmmmmm.
+![image](https://github.com/user-attachments/assets/b6d1f68b-f972-4328-8a09-07491e662629)
+well i mean if it works for them, surely it works for me. they leave around 3 inches of space between the thingys. 
+at the time i wasn't sure if i would use a top down view to sketch out the deflector/centerer, but i ended up sketching on the intake plate. 
+i also had to decide if i was to sketch on the deflector to remove some of it or use draft. i tried draft first, and it didn't really work out, i don't know what i expected.
+![image](https://github.com/user-attachments/assets/471fad57-92aa-480d-8d07-dac391be8c0f)
+![image](https://github.com/user-attachments/assets/eda2eacb-67f1-4a0d-8a3f-ec77d098510b)
+hmmmm yes.
