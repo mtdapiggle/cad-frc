@@ -486,3 +486,37 @@ i also had to decide if i was to sketch on the deflector to remove some of it or
 ![image](https://github.com/user-attachments/assets/471fad57-92aa-480d-8d07-dac391be8c0f)
 ![image](https://github.com/user-attachments/assets/eda2eacb-67f1-4a0d-8a3f-ec77d098510b)
 hmmmm yes.
+
+# session 12: 
+![image](https://github.com/user-attachments/assets/c543a844-2079-4e4a-9433-cad24dc06ebb)
+assemblyied
+i realised that i hadn't made one of the shafts yet. 
+![image](https://github.com/user-attachments/assets/6b0299e1-4a49-49d9-8641-e3fcc2ac7899)
+oh.
+![image](https://github.com/user-attachments/assets/a42cfcb0-d33a-42d2-92c4-f706836f003d)
+had to adjust some positions. 
+![image](https://github.com/user-attachments/assets/4d81b3ea-179b-42ce-beb0-1b8964e494a7)
+uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
+![image](https://github.com/user-attachments/assets/9a3abefc-38bc-4b25-b052-750a1cfab39b)
+i was wondeing why i had a lot of space in the sketch, then i ealised that i was using the wrong pulley. yippppeeeeee.
+![image](https://github.com/user-attachments/assets/af9a795d-039d-47e9-977c-4dc0f0c1d774)
+my god i'm dumb. 
+![image](https://github.com/user-attachments/assets/14eedf67-4b4a-400e-bccc-d5f71546cb3e)
+hmmmmmmmmmmmm.
+so i also forgot the mate connectors for the belts.
+yippeeee.
+![image](https://github.com/user-attachments/assets/a53d6757-ef03-45e9-8b88-0e21fb215c42)
+goofy mate connector. (usually it's in the middle of the hole, but it's on the edge/outer rim ???)
+![image](https://github.com/user-attachments/assets/da08b74b-205a-4ebb-8583-2b705e500275)
+slightlyyy clips into the pulley.
+![image](https://github.com/user-attachments/assets/3170a177-145e-41b4-b2d6-0224c83e811b)
+that works. 
+![image](https://github.com/user-attachments/assets/2cb94267-8d76-4a9b-a663-e4125ccd19c0)
+oh noeeeeeeeee
+at the time i couldn't really figure out how to fix it,  until i looked through all sketches that were related to the adapter, and found out that i should've turned the hexagon. epic.
+![image](https://github.com/user-attachments/assets/e59b7bd5-5569-4caa-a922-1aaca2ab9ee8)
+uhhhhhhhhhhhhhhhh.
+turns out i forgot to adjust for the pulley. rookie mistake D: 
+i also made the shaft too long, rip. 
+i was about to do the other side and then i realised that i hadn't put the holes on the other side. yipppeee.
+ya might be wondering why there's less in the readmes, i'm currently trying to get into a better workflow of typing readmes and doing current cad work, and i leave out space between the different stuff that happen/don't explain how i solve it sometimes so uh yea. 
