@@ -520,3 +520,22 @@ turns out i forgot to adjust for the pulley. rookie mistake D:
 i also made the shaft too long, rip. 
 i was about to do the other side and then i realised that i hadn't put the holes on the other side. yipppeee.
 ya might be wondering why there's less in the readmes, i'm currently trying to get into a better workflow of typing readmes and doing current cad work, and i leave out space between the different stuff that happen/don't explain how i solve it sometimes so uh yea. 
+
+# session 13:
+i realised that i had put the wrong sized roller on the bearing, so that's fun. 
+![Screenshot 2024-08-30 232946](https://github.com/user-attachments/assets/4d786efe-d77d-4766-94e0-fca5045a0e90)
+bruh i forgot to put the hole on the other side of the roller D:
+![Screenshot 2024-08-30 233648](https://github.com/user-attachments/assets/43f4b07c-c567-4a7c-a078-655cf4716069)
+epic moment where i forgot to adjust for the rollers. 
+at the time i think i wnated to adapt the shape of the deflector to the rollers and the belts, kinda like 1678. (yeah this robbot is becoming a copy and paste in a way)
+but then i realised that i couldn't really adapt it to the belts or it could get really funky and weird. 
+i guess i'm adapting it to the rollers only. 
+![image](https://github.com/user-attachments/assets/9d2f689a-a9a9-4bfb-a5ed-34d0a5aff75a)
+nealy eveything has been assembled. 
+i need sprockets, pulleys and gears. 
+![image](https://github.com/user-attachments/assets/c4a91a12-3e64-404f-9e09-35ae01580c58)
+all the stuff has been assembled, although i don't think i've figurd out a place to put the 15 tooth sprocket. 
+hmmmmmmmmmmmmm.
+idk.
+well that's a problem for later (current me)
+i tried to start on the indexer but i just feel insanely burnt out already, like i just wnat to do anything but frc cadding. also, with the fact that i have no idea what i'm doing. 
